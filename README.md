@@ -1,6 +1,2 @@
 # kaw13022.github.io
-Personal Website
-
-Development in progress.......
-
-More elements are coming soon......
+Repository to create my personal website
